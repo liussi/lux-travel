@@ -46,39 +46,35 @@
         ],
         "attrs": [
           {
-            "fill": "none",
-            "stroke": "rgb(123, 97, 255)",
+             "fill": "currentColor",
             "strokeLinejoin": "miter",
             "strokeLinecap": "butt",
             "strokeMiterlimit": "4",
             "strokeWidth": 9.309090909090909
           },
           {
-            "fill": "none",
-            "stroke": "rgb(12, 11, 16)",
+          "fill": "currentColor",
             "strokeLinejoin": "miter",
             "strokeLinecap": "butt",
             "strokeMiterlimit": "4",
             "strokeWidth": 9.309090909090909
           },
           {
-            "fill": "none",
-            "stroke": "rgb(12, 11, 16)",
+              "fill": "currentColor",
             "strokeLinejoin": "miter",
             "strokeLinecap": "butt",
             "strokeMiterlimit": "4",
             "strokeWidth": 9.309090909090909
           },
           {
-            "fill": "none",
-            "stroke": "rgb(121, 101, 94)",
+              "fill": "currentColor",
             "strokeLinejoin": "miter",
             "strokeLinecap": "butt",
             "strokeMiterlimit": "4",
             "strokeWidth": 9.309090909090909
           },
           {
-            "fill": "rgb(121, 101, 94)"
+  "fill": "currentColor"
           }
         ],
         "width": 605,
@@ -110,32 +106,28 @@
       },
       "attrs": [
         {
-          "fill": "none",
-          "stroke": "rgb(123, 97, 255)",
+          "fill": "currentColor",
           "strokeLinejoin": "miter",
           "strokeLinecap": "butt",
           "strokeMiterlimit": "4",
           "strokeWidth": 9.309090909090909
         },
         {
-          "fill": "none",
-          "stroke": "rgb(12, 11, 16)",
+           "fill": "currentColor",
           "strokeLinejoin": "miter",
           "strokeLinecap": "butt",
           "strokeMiterlimit": "4",
           "strokeWidth": 9.309090909090909
         },
         {
-          "fill": "none",
-          "stroke": "rgb(12, 11, 16)",
+            "fill": "currentColor",
           "strokeLinejoin": "miter",
           "strokeLinecap": "butt",
           "strokeMiterlimit": "4",
           "strokeWidth": 9.309090909090909
         },
         {
-          "fill": "none",
-          "stroke": "rgb(121, 101, 94)",
+            "fill": "currentColor",
           "strokeLinejoin": "miter",
           "strokeLinecap": "butt",
           "strokeMiterlimit": "4",
