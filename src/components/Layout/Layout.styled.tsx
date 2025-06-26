@@ -5,6 +5,8 @@ export const LayoutWrapper = styled.div`
   position: relative;
   width: 1440px;
   height: 960px;
+  display:block;
+  margin: 0 auto;
   top: -42px;
   background-image: url(${sky});
   background-size: cover;

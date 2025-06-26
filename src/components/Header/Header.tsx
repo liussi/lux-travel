@@ -7,7 +7,7 @@ import {
   NavList,
   NavItem,
   CallbackButtonWrapper,
-  StyledLogo,
+  StyledLogo  
 } from './Header.styled';
 
 const Header = () => {
@@ -29,7 +29,7 @@ const Header = () => {
       </Nav>
  <CallbackButtonWrapper>
       <span>CALL ME BACK</span>
-              <span className="overlay-img3" />
+            
     </CallbackButtonWrapper>
 
     </HeaderWrapper>
